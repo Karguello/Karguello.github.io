@@ -1,0 +1,95 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="site_name.businesscatalyst.com" resolutions="1x" timestamp="1493667036660">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="455265752" ref="product:index:about:technology:contact:hoteliers"/>
+    <file name="product.css" crc="12792334" ref="product"/>
+    <file name="index.css" crc="432361284" ref="index"/>
+    <file name="about.css" crc="374736692" ref="about"/>
+    <file name="technology.css" crc="389261017" ref="technology"/>
+    <file name="contact.css" crc="4037058205" ref="contact"/>
+    <file name="hoteliers.css" crc="3864838818" ref="hoteliers"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="museutils.js" crc="4148063285" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="museconfig.js" crc="172512987" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="require.js" crc="4159430777" ref="index:about:product:technology:hoteliers:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="tim-trad-200626.jpg" crc="260159954" ref="index"/>
+    <file name="touricologo-crop-u206.png" crc="3825598708" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u379.png" crc="4149114928" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u379-r.png" crc="4168664618" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u379-m.png" crc="4168664618" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u379-a.png" crc="4178503394" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u386.png" crc="389041956" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u386-r.png" crc="4156355350" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u386-m.png" crc="4156355350" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u386-a.png" crc="4239039153" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u426.png" crc="4097816848" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u426-r.png" crc="4217891552" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u426-m.png" crc="4217891552" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u426-a.png" crc="113290795" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u453.png" crc="3992900979" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u453-r.png" crc="4146144960" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u453-m.png" crc="4146144960" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u453-a.png" crc="3793678597" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u483.png" crc="3789133115" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u483-r.png" crc="3897590676" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u483-m.png" crc="3897590676" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u483-a.png" crc="4273086441" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u511.png" crc="393322527" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u511-r.png" crc="4109435117" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u511-m.png" crc="4109435117" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u511-a.png" crc="4012441096" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u1554_states.png" crc="407356300" ref="index"/>
+    <file name="u1554_states-r.png" crc="3898456293" ref="index"/>
+    <file name="u1557_states.png" crc="3912878690" ref="index"/>
+    <file name="u1557_states-r.png" crc="149161795" ref="index"/>
+    <file name="u1560_states.png" crc="4071701320" ref="index"/>
+    <file name="u1560_states-r.png" crc="80062409" ref="index"/>
+    <file name="log_in.jpg" crc="324160760" seo="true" ref="index"/>
+    <file name="facebook_icon.png" crc="280523618" seo="true" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="linkedin_icon.png" crc="33382632" seo="true" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="twitter_icon.png" crc="362827224" seo="true" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="youtbe_icon.png" crc="3940014625" seo="true" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="u1171-15.png" crc="4033659043" ref="index:about:product:technology:hoteliers:contact"/>
+    <file name="carl-cerstrand-132373.jpg" crc="3976271502" ref="about"/>
+    <file name="u1228-4.png" crc="4221212610" ref="about"/>
+    <file name="u1215-15.png" crc="206512496" ref="about"/>
+    <file name="uri-crop-u1218.jpg" crc="129158516" ref="about"/>
+    <file name="product_image.jpg" crc="194248471" ref="product"/>
+    <file name="u1189-4.png" crc="4094511579" ref="product"/>
+    <file name="2.png" crc="501926186" seo="true" ref="product"/>
+    <file name="u1192-10.png" crc="4237785143" ref="product"/>
+    <file name="u1195-7.png" crc="84763370" ref="product"/>
+    <file name="1.png" crc="4156731685" seo="true" ref="product"/>
+    <file name="3.png" crc="3793227026" seo="true" ref="product"/>
+    <file name="u1198-8.png" crc="3912038970" ref="product"/>
+    <file name="biel-morro-235394.jpg" crc="16982278" ref="technology"/>
+    <file name="u1243-4.png" crc="4102433880" ref="technology"/>
+    <file name="u1275-4.png" crc="490260069" ref="technology"/>
+    <file name="u1252-15.png" crc="57242397" ref="technology"/>
+    <file name="u1237-35.png" crc="3828315177" ref="technology"/>
+    <file name="hoteliers_image.jpg" crc="512059625" ref="hoteliers"/>
+    <file name="u1186-4.png" crc="4015519119" ref="hoteliers"/>
+    <file name="u1179-12.png" crc="433330517" ref="hoteliers"/>
+    <file name="u1182-24.png" crc="62640390" ref="hoteliers"/>
+    <file name="gilles-lambert-8649.jpg" crc="43283929" ref="contact"/>
+    <file name="u1541-4.png" crc="382368183" ref="contact"/>
+    <file name="u1278-26.png" crc="321255905" ref="contact"/>
+    <file name="u1281-24.png" crc="358939978" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="371569926" seo="true" mt="1493666691646" redirect="true"/>
+  <file name="about.html" crc="252058749" seo="true" mt="1493662082897" redirect="true"/>
+  <file name="product.html" crc="319394199" seo="true" mt="1493664653989" redirect="true"/>
+  <file name="technology.html" crc="200477707" seo="true" mt="1493663413094" redirect="true"/>
+  <file name="hoteliers.html" crc="410451177" seo="true" mt="1493664066215" redirect="true"/>
+  <file name="contact.html" crc="378264187" seo="true" mt="1493665543816" redirect="true"/>
+</manifest>
